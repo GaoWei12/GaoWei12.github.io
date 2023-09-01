@@ -1,11 +1,11 @@
 ---
 title: "学科基础课程必修"
 collection: teaching
-type: ""
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 
-location: ""
+venue: "University 1, Department"
+date:2014-01-01 
+location: "City, Country"
 ---
 
 这部分记录了大学期间的学科基础课程必修课
