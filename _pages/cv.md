@@ -36,23 +36,7 @@ redirect_from:
 * 编程能力：对Java专业知识和基础知识有较好的掌握，有一定的项目编程能力
 * 团队能力：具有团队意识和团队协作能力
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 自我鉴定
 ======
