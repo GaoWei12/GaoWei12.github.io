@@ -9,32 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+个人信息
+======
+* 基本信息
+  * 姓名：高维
+  * 性别：男
+  * 民族：满
+  * 出生年月：2002.03
+    
+* 联络信息
+  * 电话：19824400157
+  * QQ：2891963546
+  * 邮箱：2891963546@qq.com
+    
+教育背景
+======
+*   高中 , 辽宁省铁岭市清河高级中学 , 2017.09-2020.06  
+*   2020.09至今 ,  石家庄铁道大学 , 本科
+*   专业：软件工程专业
   
-Skills
+技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 语言能力：大学英语四级
+* 编程能力：对Java专业知识和基础知识有较好的掌握，有一定的项目编程能力
+* 团队能力：具有团队意识和团队协作能力
 
 Publications
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+自我鉴定
 ======
-* Currently signed in to 43 different slack teams
+* 自我评价：本人性格沉稳乐观积极向上，有团队精神，学习能力和执行能力较强，有良好的沟通表达能力，喜欢迎接新的挑战。大学期间努力学习，进行Java案例训练，对专业知识和基础知识有较好的掌握，有一定的项目编程能力。
